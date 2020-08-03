@@ -1,0 +1,10 @@
+
+1 - Install imagemagick
+  HOMEBREW_NO_AUTO_UPDATE=1 brew install imagemagick
+
+
+2 - npm install
+
+
+cd into the folder :
+3 - node imageprocess.js
